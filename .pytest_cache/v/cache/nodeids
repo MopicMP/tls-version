@@ -1,0 +1,5 @@
+[
+  "tests/test_tls_version.py::TestVersion::test_basic",
+  "tests/test_tls_version.py::TestVersion::test_empty",
+  "tests/test_tls_version.py::TestVersion::test_type_error"
+]
